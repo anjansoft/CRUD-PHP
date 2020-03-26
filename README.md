@@ -1,10 +1,15 @@
 === Survey===
 
-  Contributors: anjanreddy 
-  Tags: PHP survey,survey with admin ,online survey, survey with questiona and answers upload. 
+  Contributors: anjanreddy
+  
+  Tags: PHP survey,survey with admin ,online survey, survey with questiona and answers upload.
+  
   Requires at least: 5.0.1
+  
   Tested up to: 7.0
+  
   Stable tag: 7.0
+  
   License: GPLv2 or later
 
 == Description ==
